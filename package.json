@@ -1,0 +1,72 @@
+{
+	"name": "JLo",
+	"displayName": "JLo",
+	"publisher": "JLo",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/markthomasmiller/sorcerer.git"
+	},
+	"author": {
+		"name": "JLo"
+	},
+	"categories": [
+		"Themes"
+	],
+	"description": "A vibrant, dark color scheme inspired by MageTools.",
+	"version": "0.1.0",
+	"icon": "site/images/icon.png",
+	"keywords": [
+		"neon",
+		"dark",
+		"cyberpunk",
+		"vivid",
+		"bright"
+	],
+	"galleryBanner": {
+		"color": "#0e141a",
+		"theme": "dark"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"homepage": "https://sorcerer.mage.tools",
+	"bugs": {
+		"url": "https://github.com/markthomasmiller/sorcerer/issues",
+		"email": "mark@mayvalellc.com"
+	},
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sorcerers",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sorcerers-color-theme.json"
+			},
+			{
+				"label": "JLo Libera",
+				"uiTheme": "vs-dark",
+				"path": "./themes/JLo-Libera-color-theme.json"
+			},
+			{
+				"label": "JLoArenales",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jlo-arenales-color-theme.json"
+			},
+			{
+				"label": "JLo Mayalav",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jlo-Mayalav-color-theme.json"
+			},
+			{
+				"label": "JLo Frankenstein",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jlo-Frankenstein-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "abf50d13-2b77-4032-bff9-4d3707c0c3151",
+		"publisherId": "d4bb74b6-4167-4438-a4f2-2e885f8a986d1",
+		"publisherDisplayName": "JLo"
+	}
+}
