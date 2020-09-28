@@ -4,7 +4,7 @@
 	"publisher": "JLo",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/markthomasmiller/sorcerer.git"
+		"url": "https://github.com/jorgelopezam/VSthemes.git"
 	},
 	"author": {
 		"name": "JLo"
@@ -48,9 +48,9 @@
 				"path": "./themes/JLo-Libera-color-theme.json"
 			},
 			{
-				"label": "JLoArenales",
+				"label": "JLo Original",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Jlo-arenales-color-theme.json"
+				"path": "./themes/Jlo-original-color-theme.json"
 			},
 			{
 				"label": "JLo Mayalav",
@@ -61,6 +61,26 @@
 				"label": "JLo Frankenstein",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Jlo-Frankenstein-color-theme.json"
+			},
+			{
+				"label": "JLo Svelte",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jlo-svelte-color-theme.json"
+			},
+			{
+				"label": "JLo Morado",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jlo-morado-color-theme.json"
+			},
+			{
+				"label": "JLo Amarillo",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jlo-amarillo-color-theme.json"
+			},
+			{
+				"label": "JLo Limon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jlo-limon-color-theme.json"
 			}
 		]
 	},

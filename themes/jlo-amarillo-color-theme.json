@@ -4,11 +4,11 @@
 	"colors": {
 		"activityBar.foreground": "#dfdfdf",
 		"activityBar.background": "#000000",
-		"activityBar.border": "#ff3030",
+		"activityBar.border": "#fff235",
 		"activityBarBadge.background": "#0e141a",
 		"activityBarBadge.foreground": "#828282",
 		"sideBarTitle.foreground": "#6e7d9abb",
-		"sideBar.background": "#4b0000",
+		"sideBar.background": "#0a1016",
 		"sideBar.foreground": "#adb3bf",
 		"sideBar.border": "#ffffff09",
 		"editor.background": "#0e141a",
